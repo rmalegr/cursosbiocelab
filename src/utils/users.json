@@ -1,0 +1,79 @@
+[
+  {
+    "id": "Qff78AeOAWdMJH1pIrWX5Dn40Xv2",
+    "nombre": "Roque Iván",
+    "apellido": "Moyano",
+    "telefono": 3810000000,
+    "mail": "rimoyano23@gmail.com",
+    "direccion": "Lastenia, Tucumán",
+    "dni": 32000000,
+    "contraseña": "admin",
+    "isAdmin": true
+  },
+  {
+    "id": "9eh7Isj3LsaTgyeND7Zr2LwltwE2",
+    "nombre": "Juan",
+    "apellido": "Moyano",
+    "telefono": 1100000000,
+    "mail": "juan.moyar@gmail.com",
+    "direccion": "Piumato Village, Buenos Aires",
+    "dni": 35000000,
+    "contraseña": "admin",
+    "isAdmin": true
+  },
+  {
+    "id": "0recbbIV6GZreIlvNMc6wrxpOor1",
+    "nombre": "Ignacio",
+    "apellido": "Sanchez Martinez",
+    "telefono": 1100000000,
+    "mail": "ignaciosanchezmartinez10@gmail.com",
+    "direccion": "Somewhere in the CABA",
+    "dni": 40000000,
+    "contraseña": "admin",
+    "isAdmin": true
+  },
+  {
+    "id": "fIXTjfRP2uYVpW81GoUYIRWABDr2",
+    "nombre": "Alejandro",
+    "apellido": "Galus",
+    "telefono": 2940000000,
+    "mail": "alejandrogalus83@yahoo.com.ar",
+    "direccion": "La Patagonia rebelde",
+    "dni": 30000000,
+    "contraseña": "admin",
+    "isAdmin": true
+  },
+  {
+    "id": "hFLxCkmxGlVFkzPpy7af2b6Eeu02",
+    "nombre": "Fátima",
+    "apellido": "Lezcano",
+    "telefono": 3510000000,
+    "mail": "fatimalezcanodev@gmail.com",
+    "direccion": "El centro del país",
+    "dni": 39000000,
+    "contraseña": "admin",
+    "isAdmin": true
+  },
+  {
+    "id": "1IbHp9pvK6gNLNJOdoBLIPyreq72",
+    "nombre": "Deborah",
+    "apellido": "Sanchez",
+    "telefono": 3410000000,
+    "mail": "deborah.sanchez@hotmail.com",
+    "direccion": "Rosario, rezar un",
+    "dni": 40000000,
+    "contraseña": "admin",
+    "isAdmin": true
+  },
+  {
+    "id": "dsI3ZazuBKTyQGJFS9ghRudXCpn1",
+    "nombre": "Rodrigo",
+    "apellido": "Cremella",
+    "telefono": 1100000000,
+    "mail": "rodrigocremella@hotmail.com",
+    "direccion": "Toxicland, CABA",
+    "dni": 4000000,
+    "contraseña": "admin",
+    "isAdmin": true
+  }
+]
